@@ -15,31 +15,29 @@ This project demonstrates an end-to-end data analysis workflow, starting from ra
 •	Jupyter Notebook – Development environment
  Project Steps
 1. Data Loading
-
-•	Imported dataset using Pandas
-
-•	Inspected structure, data types, and basic statistics
-3. Data Cleaning
+•Imported dataset using Pandas
+•Inspected structure, data types, and basic statistics
+2.Data Cleaning
 •	Handled missing values
 •	Removed duplicates
 •	Standardized column names and formats
 •	Fixed inconsistent data entries
-4. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 •	Performed univariate and bivariate analysis
 •	Identified trends, patterns, and outliers
 •	Created visualizations for better understanding
-5. SQL Analysis
+4. SQL Analysis
 •	Loaded cleaned data into database
 •	Wrote SQL queries for:
 o	Aggregations
 o	Joins
 o	Filtering and grouping
 •	Generated insights directly from database queries
-6. Dashboard Creation
+5. Dashboard Creation
 •	Built interactive dashboards in Power BI
 •	Included KPIs, charts, filters, and slicers
 •	Focused on business insights and usability
-7. Reporting & Presentation
+6. Reporting & Presentation
 •	Created a detailed report summarizing findings
 •	Designed a professional presentation using Gamma
 •	Highlighted key insights and recommendations
